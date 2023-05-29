@@ -1,0 +1,17 @@
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\bin\Debug\net7.0\Capa_Negocio.deps.json
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\bin\Debug\net7.0\Capa_Negocio.dll
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\bin\Debug\net7.0\Capa_Negocio.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\bin\Debug\net7.0\Capa_Datos.dll
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\bin\Debug\net7.0\Capa_Entidad.dll
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\bin\Debug\net7.0\Capa_Datos.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\bin\Debug\net7.0\Capa_Entidad.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\Capa_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\Capa_Negocio.AssemblyInfoInputs.cache
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\Capa_Negocio.AssemblyInfo.cs
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\Capa_Negocio.csproj.CopyComplete
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\Capa_Negocio.dll
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\refint\Capa_Negocio.dll
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\Capa_Negocio.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\ApiResFull\Capa_Negrocio\obj\Debug\net7.0\ref\Capa_Negocio.dll
